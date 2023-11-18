@@ -3,6 +3,7 @@
   "Tags": [
     "bitwarden",
     "duplicati",
+    "elasticsearch",
     "FailureFriday",
     "fediblock",
     "hana",
@@ -17,6 +18,7 @@
     "sap",
     "saphana",
     "selfhosting",
+    "sidekiq",
     "zabbix"
   ],
   "Instances": [
