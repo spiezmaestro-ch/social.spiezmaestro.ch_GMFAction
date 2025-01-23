@@ -10,7 +10,7 @@ jobs:
   moar:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: g3rv4/GetMoarFediverse@main
         with:
           config_file: ${{ github.workspace }}/config.json
